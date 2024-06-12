@@ -1,0 +1,3 @@
+Load kernel module
+  sudo insmod my_module.ko
+dmesg | tail
